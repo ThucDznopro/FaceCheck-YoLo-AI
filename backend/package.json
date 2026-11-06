@@ -1,0 +1,25 @@
+{
+  "name": "facecheck-backend",
+  "version": "1.0.0",
+  "description": "Máy chủ Node.js Express & Face AI Engine cho FaceCheck",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "author": "QCET Team",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.3",
+    "nodemailer": "^9.0.4",
+    "resend": "^6.18.1",
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
