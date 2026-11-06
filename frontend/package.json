@@ -1,0 +1,13 @@
+{
+  "name": "facecheck-frontend",
+  "version": "1.0.0",
+  "description": "Giao diện Trình duyệt Web App cho FaceCheck",
+  "main": "index.html",
+  "scripts": {
+    "start": "node start_browser.js default",
+    "chrome": "node start_browser.js chrome",
+    "dev": "node start_browser.js default"
+  },
+  "author": "QCET Team",
+  "license": "ISC"
+}

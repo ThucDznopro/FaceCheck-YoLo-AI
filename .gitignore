@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.pt
+
+# Build outputs
+dist/
+build/
+
+# Flutter / Dart
+.dart_tool/
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.suo
+
+# Operating System
+.DS_Store
+Thumbs.db
